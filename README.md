@@ -1,1 +1,1 @@
-# AtliQ-Sales-Dashboard
+# AtliQ Sales Dashboard
